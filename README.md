@@ -21,10 +21,5 @@ A responsive and interactive Image Gallery web application created using HTML, C
 Screenshot (305).png
 Screenshot (306).png
 
-## Live Demo
 
-https://your-netlify-link.netlify.app  
-<!-- Replace with your actual Netlify or hosting link -->
-
-## Folder Structure
 
