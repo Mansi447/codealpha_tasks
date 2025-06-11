@@ -18,7 +18,8 @@ A responsive and interactive Image Gallery web application created using HTML, C
 
 ## Preview
 
-![Image Gallery Screenshot](./screenshot.png) "C:\Users\Manshi garg\Pictures\Screenshots\Screenshot (305).png"
+Screenshot (305).png
+Screenshot (306).png
 
 ## Live Demo
 
